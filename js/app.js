@@ -1,1 +1,1 @@
-angular.module('itunes', ['ngGrid'])
+angular.module('itunes', ['ngGrid'])//app name
